@@ -27,10 +27,18 @@ I am currently working on a Friday Night Funkin' Engine called [**ALE Engine**](
     <img src="https://github.com/IamBritex.png" height="30" style="margin-right: 10px;">
     Dave 27
     <img src="https://github.com/matigol-300.png" height="30" style="margin-right: 10px;">
+    Eddy Smashcraft
+    <img src="https://github.com/eddyblightsmashcraft2605.png" height="30" style="margin-right: 10px;">
     Slushi
     <img src="https://github.com/Slushi-Github.png" height="30" style="margin-right: 10px;">
     Ch3erea
     <img src="https://github.com/sparta399.png" height="30" style="margin-right: 10px;">
+    Ramis
+    <img src="https://github.com/Ramis1829.png" height="30" style="margin-right: 10px;">
+    Speg
+    <img src="https://github.com/steve-pro-el-gamer.png" height="30" style="margin-right: 10px;">
+    ManuArtXD
+    <img src="https://github.com/ManuArtXD.png" height="30" style="margin-right: 10px;">
 </p>
 
 ---
