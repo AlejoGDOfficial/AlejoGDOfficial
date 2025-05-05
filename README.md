@@ -23,8 +23,6 @@ I am currently working on a Friday Night Funkin' Engine called [**ALE Engine**](
 <p style="display: flex; align-items: center; gap: 8px;">
     Khorix
     <img src="https://github.com/KhorixAwakening.png" height="30" style="margin-right: 10px;">
-    Britex
-    <img src="https://github.com/IamBritex.png" height="30" style="margin-right: 10px;">
     Dave 27
     <img src="https://github.com/matigol-300.png" height="30" style="margin-right: 10px;">
     Eddy Smashcraft
